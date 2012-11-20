@@ -28,7 +28,12 @@
 .green {
     background-color:#9bbb59;
 }
-
+/* Small Devices ------------ */
+@media only screen and (max-width: 767px) {
+    .blue {
+        clear: both;
+    }
+}
 /* -----------------------------------------
    Page Name 1
 ----------------------------------------- */
