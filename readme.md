@@ -3,7 +3,7 @@
 This is a simple example of how Git can be used to A/B test responsive design layouts using branches in Git.
 
 ##To use:
-Open the example using GitHub for Windows (or use your commandline tools)
+Open the example using Visual Studio & GitHub for Windows (or use your commandline tools)
 
 - Run the master branch
 - Resize the browser to see how the layout adapts to mobile
