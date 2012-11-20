@@ -12,8 +12,22 @@
 /* -----------------------------------------
    Shared Styles
 ----------------------------------------- */
+/* Colors to demo visual elements*/
+.orange {
+    background-color:#e05826;
+}
 
+.purple {
+    background-color:#8064a2;
+}
 
+.blue {
+    background-color:#10a0c5;
+}
+
+.green {
+    background-color:#9bbb59;
+}
 
 /* -----------------------------------------
    Page Name 1
