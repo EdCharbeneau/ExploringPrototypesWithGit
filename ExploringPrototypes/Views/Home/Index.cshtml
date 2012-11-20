@@ -6,14 +6,14 @@
     </header>
 </div>
 <div class="row">
-    <nav class="two columns purple">@Html.Ipsum().ul(links: true, ulAttributes: new { @class = "nav-bar vertical" })</nav>
-    <div class="six columns blue">
+    <div class="six columns push-two blue">
         <article>
             @Html.Ipsum().h1()
             @Html.Placehold(120, 120, htmlAttributes: new { @class = "right" })
             @Html.Ipsum().p().h2().p()
         </article>
     </div>
+    <nav class="two columns pull-six purple">@Html.Ipsum().ul(links: true, ulAttributes: new { @class = "nav-bar vertical" })</nav>
     <div class="four columns green">
         <aside class="panel">@Html.Ipsum().h3().p().h4().p()</aside>
     </div>
