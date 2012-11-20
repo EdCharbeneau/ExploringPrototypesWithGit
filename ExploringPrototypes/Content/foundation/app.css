@@ -28,7 +28,18 @@
 .green {
     background-color:#9bbb59;
 }
-
+@media only screen and (max-width: 767px) {
+    .fixed-bottom {
+        width: 100%;
+        left: 0;
+        position: fixed;
+        bottom: 0;
+        z-index: 99;
+    }
+    .green {
+    margin-bottom:237px; /* Offset for menu overlap - not quite ideal */
+}
+}
 /* -----------------------------------------
    Page Name 1
 ----------------------------------------- */
