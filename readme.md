@@ -21,3 +21,5 @@ Once you decide which layout is best, the ideal layout can be merged back in to 
 
 - Visual Studio
 - GitHub for Windows or Git
+
+####Responsive web design powered by Zurb Foundation
